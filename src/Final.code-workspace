@@ -6,6 +6,10 @@
 		{
 			"name": "reactfrontend",
 			"path": ".."
+		},
+		{
+			"name": "backend",
+			"path": "..\\..\\backendFinal\\backend"
 		}
 	],
 	"settings": {}
